@@ -36,3 +36,4 @@ if __name__ == "__main__":
     predictions = make_predictions(df)
     print('predictions:')
     print(predictions)
+    print('those are the predictions!')
